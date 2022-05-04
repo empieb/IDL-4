@@ -6,4 +6,4 @@ FlowchartIDL4 - The flowchart for the lab
 
 IDL4CodeFinal - Lab listing
 
-IDL4Report_Empie - Lab report
+IDL4Report_Empie - Lab report, the listing and flowhchart are included here as well.
